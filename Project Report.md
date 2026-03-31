@@ -1,7 +1,7 @@
 # Digital Literacy Portfolio
 
-## Name: SWARIT SINGH CHAUHAN  
-## Registration Number: 25BAI10982
+## Name: UNNAYAN VATSA 
+## Registration Number: 25BAI10191
 ## Branch: CSE (Specialization in AI-ML)  
 ## Year: 1st Year  
 
