@@ -1,7 +1,7 @@
 # Digital Literacy Portfolio
 
-**Name:** Swarit Singh Chauhan  
-**Registration Number:** 25BAI10982  
+**Name:** Unnayan Vatsa  
+**Registration Number:** 25BAI10191 
 **Branch:** CSE(SPECIALIZATION IN AI-ML
 **Year:** 1st Year  
 
